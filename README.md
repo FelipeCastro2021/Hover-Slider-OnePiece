@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ### Implantação em produção
-- Front-end web: Github Pages
+- Front-end web: [Github Pages](https://felipecastro2021.github.io/Hover-Slider-OnePiece/)
 
 ---
 
